@@ -53,7 +53,7 @@ I'm actively seeking opportunities as a:
 ## 📫 Let’s Connect!
 
 If you're a **recruiter**, **hiring manager**, or **team lead** looking for someone who bridges **business and data**, let’s talk!
-📧 Reach me on LinkedIn
+📧 Reach me on *[LinkedIn](https://www.linkedin.com/in/liaamalia/)*
 
 ---
 
