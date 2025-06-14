@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Target Role
+## 🚀 Target Role:
 
 I'm actively seeking opportunities as a:
 
