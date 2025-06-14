@@ -30,7 +30,7 @@ I'm actively seeking opportunities as a:
 
 🛠️ *Python & Pandas*
 🔍 Analyzed user retention trends based on sign-up cohorts to identify churn patterns and propose strategies for improving repeat purchase behavior.
-➡️ *[View Project](project/01. Cohort Analysis Ecommerce)*
+➡️ *[View Project](project/01.Cohort_Analysis_E-Commerce)*
 
 ---
 
