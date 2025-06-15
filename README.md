@@ -1,4 +1,4 @@
-# 👩‍💻 Lia Amalia – Business Analyst Transitioning into Data & BI
+# 👩‍💻 Lia Amalia – Data & Business Analyst 
 
 🎯 **Jakarta-based Business Analyst** with a strong interest in **Data Analysis** and **Business Intelligence**.
 🔍 I help businesses make smarter, data-driven decisions using SQL, BI tools, and Python.
